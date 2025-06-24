@@ -1,0 +1,23 @@
+#!/bin/bash
+# Android APK Demo File for InstaDownloader
+# This is a demonstration APK file that would contain the actual Android application
+# In production, this would be a compiled Android application package
+
+echo "InstaDownloader Android APK v2.1.0"
+echo "Features:"
+echo "- Download Instagram Stories and Reels"
+echo "- Offline viewing capability"
+echo "- Batch download support"
+echo "- HD quality downloads"
+echo "- No ads experience"
+echo ""
+echo "Installation Instructions:"
+echo "1. Enable 'Unknown Sources' in Android Settings > Security"
+echo "2. Download this APK file"
+echo "3. Tap the downloaded file to install"
+echo "4. Follow the installation prompts"
+echo ""
+echo "System Requirements:"
+echo "- Android 6.0 (API level 23) or higher"
+echo "- 50MB free storage space"
+echo "- Internet connection for downloads"
